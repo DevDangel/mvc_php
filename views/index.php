@@ -110,13 +110,6 @@ $users = $userController->getUsers();//obtener todos los usuarios
     <a href="logout.php" class="logout-link">Cerrar sesión</a>
 </head>
 <body>
-    <section>
-        <select name="text" id="" placeholder="Elige tu sexo">Elige tu sexo
-            <option value="">sexo</option>
-            <option value="">ANAL</option>
-            <option value="">sin condon</option>
-        </select>
-    </section>
     <h1>MVC with PHP by Angel Herrera</h1>
     <div class="form-container">
         <form action=""method="POST">
