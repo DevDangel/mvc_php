@@ -1,0 +1,42 @@
+{
+    "Persona" : {
+        "atributos" : {
+            "Nombre" : "Apellido",
+            "Edad" : 26,
+            "Estado Civil" : "Soltero"
+        },
+        "hobbies":[
+            [],[],[]
+        ]
+    }
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
