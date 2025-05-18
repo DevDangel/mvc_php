@@ -53,7 +53,7 @@ class userModel {
     }
 
     //Login for MVC
-    
+
     //registras un usuario
     public function registerUser($nombre, $password) {
         $query = "INSERT INTO usuarios (nombre, password) VALUES (:nombre, :password)";
